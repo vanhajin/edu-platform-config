@@ -17,3 +17,4 @@ eduplatform:
     url: ${EDUPLATFORM_DB_URL:jdbc:mysql://localhost:3306/edu_platform?serverTimezone=Asia%2FHo_Chi_Minh&connectionTimeZone=Asia%2FHo_Chi_Minh}
     username: ${EDUPLATFORM_DB_USERNAME:root}
     password: ${EDUPLATFORM_DB_PASSWORD:A123456}
+  password-default: A123456
