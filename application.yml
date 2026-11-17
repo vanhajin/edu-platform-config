@@ -1,0 +1,4 @@
+# Shared configuration served by config-server.
+# Add service-specific files next to this file, for example auth-svc.yml.
+app:
+  config-source: native
