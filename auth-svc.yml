@@ -1,1 +1,2 @@
-
+register-instructor:
+    password-default: A123456
